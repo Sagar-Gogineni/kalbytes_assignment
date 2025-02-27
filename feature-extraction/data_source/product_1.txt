@@ -1,0 +1,62 @@
+Junkers Gas Condensing Unit ZWB 24-5 C 23
+Combination Unit Power: 24 kW
+
+Device Description:
+	•	Gas condensing unit Cerapur ZWB as a combination unit with integrated hot water preparation
+	•	Continuous power adjustment for heating
+	•	Aluminum-silicon heat block (sand casting)
+	•	Suitable for low-temperature operation and underfloor heating
+	•	Concentric air/flue connection with integrated measurement openings
+	•	Hot water priority control with ECO or comfort setting
+	•	Installation field for outdoor temperature-controlled system controller or timer
+	•	Approved according to EU gas appliance directives (90/396/EEC) and EN677/EN483
+	•	Delivered pre-adjusted for natural gas E/H. Adjustment to natural gas LL/L by setting on the gas valve
+	•	Display for easy operation and status inquiry
+	•	Control panel covered
+
+Features:
+	•	Gas fan premixed burner made of stainless steel
+	•	Control unit: Bosch Heatronic 4i(R), bus-compatible
+	•	Expansion vessel
+	•	Power-regulated high-efficiency pump
+	•	Automatic air vent
+	•	Manometer
+	•	Safety valve
+	•	Continuously regulated gas valve (gas/air combination regulation), safety features according to EN 12828
+	•	Flue gas temperature limiter (120°C)
+
+Type: ZWB 24-5 C 23
+Color: White
+Gas Type: Natural gas E
+Class for seasonal space heating energy efficiency: A
+Energy efficiency class spectrum: A+++ -> D
+Seasonal space heating energy efficiency: 92%
+Nominal heat output at 80/60°C: 20 kW
+Sound power level in indoor spaces: 48 dB (A)
+Class for hot water preparation energy efficiency: A
+Energy efficiency class spectrum: A+ -> F
+Hot water preparation energy efficiency at average climate: 83%
+Load profile: XL
+Min. nominal heat output (40/30°C): 3.4 kW
+Max. nominal heat output (40/30°C): 21.5 kW
+Min. nominal heat output (80/60°C): 3 kW
+Max. nominal heat load for heating: 20.5 kW
+Max. nominal heat output (hot water): 24 kW
+Max. flow temperature: 82°C
+Max. outlet temperature: 60°C
+Flow and return heating: R 3/4 inch
+Gas connection: R 3/4 inch
+Flue pipe connection: 80 mm
+Air/flue pipe connection: 125 mm
+Electrical connection: 230 V
+Electrical frequency: 50 Hz
+Electrical power consumption: 75 W
+Expansion vessel content: 12 l
+Protection class (EN 60529): IP X4D
+Product identification number: CE-0085BU0450
+Height: 840 mm
+Width: 440 mm
+Depth: 350 mm
+Net weight: 47.5 kg
+Preset for natural gas E
+Manufacturer: Bosch Thermotechnik GmbH

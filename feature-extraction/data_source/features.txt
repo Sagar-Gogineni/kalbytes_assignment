@@ -1,0 +1,104 @@
+Connection
+Fuel connection
+Flue gas discharge connection
+Return connection
+Sensor type
+Article group
+Design type
+Form
+Series/Product line
+Container volume (l)
+Remark
+Designation
+Operating mode
+Width (mm)
+Burner regulation (modulating)
+Burner type
+Fuel
+Declared load profile
+Diameter (mm)
+Built-in pump control
+Hot water energy efficiency (%)
+Energy efficiency class
+Energy efficiency class for space heating
+Energy efficiency class for hot water
+Color
+Color group (main color)
+Suitable for natural gas
+Suitable for propane
+Closed design
+Weight (kg)
+Heating power (kW)
+Manufacturer’s article number
+Manufacturer name
+Height (mm)
+Content
+Indoor sound power level LWA (dB)
+Seasonal space heating energy efficiency (%)
+Boiler width (mm)
+Boiler height (mm)
+Boiler depth (mm)
+Tilt dimension (mm)
+Max. operating pressure (bar)
+Max. gas supply pressure (mbar)
+Max. modulation (%)
+Max. nominal power 50-30°C natural gas E, LL (kW)
+Max. nominal power 50-30°C liquefied gas (kW)
+Max. nominal power 50-30°C (kW)
+Max. nominal power 80-60°C natural gas E, LL (kW)
+Max. nominal power 80-60°C liquefied gas (kW)
+Max. nominal power 80-60°C (kW)
+Max. flow temperature (°C)
+Min. operating pressure (bar)
+Min. gas supply pressure (mbar)
+Min. modulation (%)
+Min. nominal power 50-30°C natural gas E, LL (kW)
+Min. nominal power 50-30°C liquefied gas (kW)
+Min. nominal power 50-30°C (kW)
+Min. nominal power 80-60°C natural gas E, LL (kW)
+Min. nominal power 80-60°C liquefied gas (kW)
+Min. nominal power 80-60°C (kW)
+With burner
+With remote monitoring module
+With LCD control panel
+With mixing valve
+With tank
+With thermostat
+With touch control panel
+With WiFi modem
+With heat exchanger
+With built-in automation
+Boiler installation type
+Nominal diameter gas connection
+Nominal diameter return connection
+Nominal diameter drinking hot water/cold drinking water connection
+Nominal diameter flow connection
+Nominal diameter air supply channel (mm)
+Nominal diameter flue gas discharge channel (mm)
+Nominal load upper value (kW)
+Nominal load lower value (kW)
+Nominal power 50-30°C (kW)
+Nominal power 80-60°C (kW)
+Standard emission factor CO (mg/kWh)
+Standard emission factor NOx (mg/kWh)
+Standard emission factor eN NOx (mg/kWh)
+Nominal efficiency
+Surface
+Position of the hot water heater
+Product ID
+Product text
+Product type/model number
+Flue pipe connection
+Outer diameter of fuel pipe (mm)
+Outer diameter of return pipe (mm)
+Outer diameter of supply pipe (mm)
+Keyword
+Search category
+Temperature control
+Depth (mm)
+Supply voltage (V)
+Material
+Material heat exchanger
+Efficiency (%)
+Certificate/Approval
+Additional power consumption at full load (Elmax) (kW)

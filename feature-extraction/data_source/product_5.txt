@@ -1,0 +1,49 @@
+Vaillant Gas Compact Unit ecoCOMPACT
+VSC 266/4-5 150 E Condensing Technology
+VAILLANT ecoCOMPACT VSC 266/4-5 150
+Gas Compact Unit Condensing
+Combination unit for heating and hot water
+
+Product Advantages:
+	•	GEG Safety: Operation with up to 100% bio-natural gas possible as standard.
+	•	High-efficiency pumps for heating and storage charging.
+	•	Electronic gas-air combination.
+	•	Multi-sensor system.
+	•	All components/accessories in one housing.
+	•	Split Mounting Concept.
+
+Features:
+	•	Integrated hot water stratified storage tank (150 liters).
+	•	Stainless steel secondary heat exchanger.
+	•	High-efficiency charging and circulation pump.
+	•	Priority switch valve, pressure sensor.
+	•	15-liter expansion tank.
+	•	Integral condensation heat exchanger made of stainless steel.
+	•	Integrated storage control.
+	•	DIA system with illuminated symbol display and the option to install a weather-dependent heating controller (calorMATIC VRC 700).
+
+Gas Type: E
+
+Nominal Power Range:
+	•	40/30°C: 5.9 - 27.0 kW
+	•	60/40°C: 5.7 - 26.3 kW
+	•	Storage charging power: 30.0 kW
+	•	Max. heat load for storage: 30.6 kW
+	•	Nominal efficiency: 98% (Hs)/109% (Hi)
+	•	Modulation range: 20% to 100%
+	•	Max. flow temperature: 85°C
+	•	Electrical connection: 230V/50Hz
+	•	Max. electrical power consumption: 70 W
+	•	Flow/Return connection: Rp 3/4
+	•	Cold/Hot water connection: Rp 3/4
+	•	Gas connection: Rp 3/4
+	•	Air/Flue connection: 60/100 mm
+	•	Weight (empty): 128 kg
+	•	Total storage capacity: 150 l
+	•	Performance index NL: 4.8
+	•	Dimensions (H/W/D): 1640/595/693 mm
+
+CE PIN: CE-1312CO5871
+Gas Appliance Category: I2ELL, I3P
+Seasonal space heating energy efficiency class: A (Spectrum A+++ to D)
+Seasonal hot water preparation energy efficiency class: A (Spectrum A+ to F)

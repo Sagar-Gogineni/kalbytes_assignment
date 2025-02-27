@@ -1,0 +1,34 @@
+Brötje Gas Condensing Boiler WGB-C 20/24 I E-Gas
+Gas Condensing Boiler for variable operation without the required minimum water circulation volume. With integrated hot water heating in the flow principle via a large stainless steel plate heat exchanger.
+Boost function for hot water heating up to 24 kW. CE marked. For use in central heating systems according to DIN EN 15502. With closed combustion chamber for room air-dependent and room air-independent operation.
+
+Features:
+	•	Modulation with gas-air compound regulation, modulating stainless steel premix burner, combustion air blower with pressure-side gas premixing, and modulating safety gas flow control valve.
+	•	Large surface condensing heat exchanger made of high-quality aluminum-silicon alloy with nano-protective coating.
+	•	Stepless adjustment of the load in heating operation and in hot water operation.
+	•	12 l (heating).
+	•	Electronically controlled high-efficiency heating circuit pump.
+	•	Safety valve, digital boiler thermometer, low water switch, analog manometer, and quick air vent.
+	•	Electronic safety temperature limiter, boiler temperature controller, and operating switch.
+	•	Powder-coated boiler casing.
+	•	Integrated system controller with advanced features (ISR-Plus LMS 14) for weather-dependent boiler control, heating circuit control, and system diagnostics.
+	•	Expandable for integration into building management systems via Modbus interface.
+	•	Five weekly time switch programs for up to two heating circuits, hot water heating, and circulation pump.
+	•	Control panel with plain text display and illuminated LCD screen.
+	•	Factory set for natural gas E.
+	•	Color: White
+	•	Packaging: Delivered in a cardboard box
+	•	Manufacturer: BRÖTJE
+
+Technical Data:
+	•	Nominal Load Hot Water Operation: 4.9-22.0 kW
+	•	Modulation Range Heating: 22-100%
+	•	Modulation Range Hot Water: 22-100%
+	•	Nominal Efficiency 40/30°C: 109%
+	•	Nominal Efficiency 75/60°C: 106%
+	•	Max. Flow Temperature: 85°C
+	•	Max. Operating Pressure: 3 bar
+	•	Flue/Intake Connection: 80/125 mm
+	•	Energy Efficiency Class Hot Water: A
+	•	Load Profile: XL
+	•	Weight: 53.0 kg

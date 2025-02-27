@@ -1,0 +1,57 @@
+Junkers Gas Condensing Appliance ZSB 24-5 C 23
+Natural Gas H Power 24 kW
+
+Product Description:
+	•	Gas condensing appliance Cerapur ZSB as a complete set
+	•	Modulation range up to 1:8
+	•	Stepless power adjustment for heating and hot water
+	•	Aluminum-silicon heat block (sand casting)
+	•	Suitable for low-temperature operation and underfloor heating
+	•	Concentric air/exhaust connection with integrated measurement openings
+	•	Hot water priority control
+	•	Installation space for outdoor temperature-controlled system controller
+	•	Covered control panel
+	•	Approved according to EU Gas Appliance Directives (90/396/EEC) and EN677 / EN483
+
+Features:
+	•	Gas fan premix burner made of stainless steel
+	•	Control unit: Bosch Heatronic 4i(R), BUS-capable
+	•	Expansion vessel
+	•	Performance-regulated high-efficiency pump
+	•	Automatic air vent
+	•	Manometer
+	•	Safety valve
+	•	Changeover valve
+	•	Continuously regulated gas valve (gas/air compound regulation), safety features according to EN 12828
+	•	Exhaust temperature limiter (120°C)
+
+Type: ZSB 24-5 C 23
+Color: White
+Gas type: Natural gas E
+Class for seasonal space heating energy efficiency: A
+Energy efficiency class spectrum: A+++ -> D
+Seasonal space heating energy efficiency: 92%
+Nominal heating power at 80/60°C: 24 kW
+Indoor sound power level: 50 dB(A)
+Min. nominal heating power (40/30°C): 3.4 kW
+Max. nominal heating power (40/30°C): 25.3 kW
+Min. nominal heating power (80/60°C): 3 kW
+Max. nominal heating load: 24.6 kW
+Max. flow temperature: 82°C
+Max. nominal heating power (hot water): 24 kW
+Heating flow and return connection: R 3/4 inch
+Gas connection: R 3/4 inch
+Flue pipe connection: 80 mm
+Air/flue pipe connection: 125 mm
+Electrical connection: 230 V
+Electrical frequency: 50 Hz
+Electrical power consumption: 100 W
+Expansion vessel volume: 12 l
+Protection class (EN 60529): IP X4D
+Product ID: CE-0085BU0450
+Height: 840 mm
+Width: 440 mm
+Depth: 350 mm
+Net weight: 47 kg
+Set for natural gas E
+Manufacturer: Bosch Thermotechnik GmbH
